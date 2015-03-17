@@ -7,6 +7,7 @@
  * cd D:\java\workspace\jetty
  * mvn clean compile exec:java
  * 
+ * use "mvn jetty:run" to start jetty
  * 
  * Firefox:
  * http://localhost:8080
